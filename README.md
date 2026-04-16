@@ -25,7 +25,7 @@ The agent is trained on both static and procedurally generated tracks to study g
 
 ---
 
-## Demo (To Be Added)
+## Demo
 ## Track Editor Demonstration
 
 ![Track Editor](media/runtime-editor.gif)
@@ -73,7 +73,7 @@ The project is organized into multiple Unity scenes, each designed for a specifi
 
 ---
 
-## Results (To Be Updated)
+## Results
 - Procedural training improves generalization across unseen tracks  
 - Static training shows faster convergence but lower adaptability  
 - Evaluation environment enables consistent benchmarking  
