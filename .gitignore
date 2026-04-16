@@ -1,0 +1,21 @@
+# Unity
+Library/
+Temp/
+Logs/
+UserSettings/
+Builds/
+
+# IDE
+.vs/
+.vscode/
+.config/
+
+# Python / ML
+__pycache__/
+*.pyc
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
